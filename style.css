@@ -242,8 +242,7 @@ input, textarea, select {
 .organise_pic {
     display: flex;
     justify-content: center;
-    padding: 50px;
-    
+    padding: 50px;    
 }
 
 .edit_organise_pic {
